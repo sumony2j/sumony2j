@@ -1,4 +1,4 @@
-![Banner]("https://github.com/sumony2j/sumony2j/blob/main/Github_Banner.jpg")
+![Banner](https://github.com/sumony2j/sumony2j/blob/main/Github_Banner.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Sumon Singh</h1>
 <h3 align="center">A passionate software developer from India</h3>

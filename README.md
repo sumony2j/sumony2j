@@ -1,36 +1,108 @@
 <img src="./Github_Banner.png" width=100% height=300px> <br>
 
-<h1 align="center">Hi 👋, I'm Sumon Singh</h1>
-<h3 align="center">A passionate software developer from India</h3>
+## Hi there 👋 Welcome to my GitHub Profile
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumony2j&label=Profile%20views&color=0e75b6&style=flat" alt="sumony2j" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumony2j" alt="sumony2j" /></a> </p>
+<hr>
 
 - 🔭 I’m currently working on **distributed AI/ML learning**
 
-- 🌱 I’m currently learning **tensorflow,horovod,LLM etc.**
+- 🌱 I’m currently learning **horovod,LLM etc.**
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
 - 💬 Ask me about **Docker, Jenkins, Python, C/C++, Automation, Scripting, Java, Linux, AWS EC2, Opensouce Project, Git etc.**
 
-- 📫 How to reach me **singhsumony2j@gmail.com**
-
 - 📄 Know about my experiences [will update soon](will update soon)
 
 - ⚡ Fun fact **My commit messages tell a story – a tragic tale of bugs squashed, features conquered, and the occasional coffee spill. It's a novel in progress.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sumon-singh-4b0a031a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumon-singh-4b0a031a5/" height="30" width="40" /></a>
-</p>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+### 📫 Connect With Me
+<a href="https://www.linkedin.com/in/sumon-singh-4b0a031a5/">
+  <img align="left" alt="Sumon's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:singhsumony2j@gmail.com?">
+  <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumony2j&show_icons=true&locale=en&layout=compact" alt="sumony2j" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumony2j&show_icons=true&locale=en" alt="sumony2j" /></p>
+###  :desktop_computer: Skilled in 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumony2j&" alt="sumony2j" /></p>
+#### Operating Systems:
+<code><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></code>
+<code><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></code>
+
+<hr>
+
+#### Languages:
+<code><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></code>
+<code><img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/></code>
+<code><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></code>
+<code><img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
+<code><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></code>
+
+<hr>
+
+#### ML/DL:
+<code><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></code>
+<code><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/></code>
+<code><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></code>
+<code><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /></code>
+<code><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /></code>
+
+<hr>
+
+#### Web Technologies:
+<code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></code>
+<code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></code>
+<code><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/></code>
+<code><img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/></code>
+
+<hr>
+
+#### Devops
+<code><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></code>
+<code><img alt="Jenkins" src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/></code>
+<code><img alt="AWS EC2" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/></code>
+<code><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/></code>
+
+<hr>
+
+### :mortar_board: Education
+
+|University|Degree|Stream|Year|Score|
+| ---- | ---- | ---- | ---- | ---- |
+|University Of Mumbai,India|Master of Science (M.Sc)|Computer Science With Specialization In Data Science<br><strong>Specialization</strong>: Deep Learning|2021-2023|CGPI : 9.46/10, (82.71%)|
+|University Of Calcutta,India|Bachelor of Science (Honours)|Computer Science|2017-2020|Final : 633/800, (80%)
+
+<hr>
+
+### :clipboard: Publications 
+
+<ol>
+  
+<li><a href="https://ijisrt.com/assets/upload/files/IJISRT23JUL1680.pdf"/>Unveiling the Veil: A Comprehensive Assessment of Privacy and Security in Amazon Alexa</a></li><strong>International Journal of Innovative Science and Research Technology</strong> <a href="https://ijisrt.com/assets/upload/files/IJISRT23JUL1680.pdf"><img src="https://img.shields.io/badge/IJISRT-Publisher-blue"><a/>
+  
+</ol>
+
+<hr>
+
+### 🏆 Github Profile Trophy
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumony2j" alt="sumony2j" /></a> </p>
+
+<hr>
+
+### Overall Profile
+
+[![Sumon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumony2j&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sumony2j&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumony2j&label=Profile%20views&color=0e75b6&style=flat" alt="sumony2j" /> </p>
+
+<hr>

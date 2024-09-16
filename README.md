@@ -86,6 +86,8 @@
 <ol>
   
 <li><a href="https://ijisrt.com/assets/upload/files/IJISRT23JUL1680.pdf"/>Unveiling the Veil: A Comprehensive Assessment of Privacy and Security in Amazon Alexa</a></li><strong>International Journal of Innovative Science and Research Technology</strong> <a href="https://ijisrt.com/assets/upload/files/IJISRT23JUL1680.pdf"><img src="https://img.shields.io/badge/IJISRT-Publisher-blue"><a/>
+<li><a href="https://ijirt.org/publishedpaper/IJIRT167821_PAPER.pdf"/>Yoga pose classification from images using transfer learning approach</a></li><strong>International Journal of Innovative Research in Technology</strong> <a href="https://ijirt.org/Article?manuscript=167821"><img src="https://img.shields.io/badge/IJIRT-Publisher-blue">
+<a/>
   
 </ol>
 

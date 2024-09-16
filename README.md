@@ -85,10 +85,12 @@
 
 <ol>
   
-<li><a href="https://ijisrt.com/assets/upload/files/IJISRT23JUL1680.pdf"/>Unveiling the Veil: A Comprehensive Assessment of Privacy and Security in Amazon Alexa</a></li><strong>International Journal of Innovative Science and Research Technology</strong> <a href="https://ijisrt.com/unveiling-the-veil-a-comprehensive-assessment-of-privacy-and-security-in-amazon-alexa"><img src="https://img.shields.io/badge/IJISRT-Publisher-blue"></a>
+<li><a href="https://ijisrt.com/assets/upload/files/IJISRT23JUL1680.pdf"/>Unveiling the Veil: A Comprehensive Assessment of Privacy and Security in Amazon Alexa</a></li><strong>International Journal of Innovative Science and Research Technology</strong>
+<p><a href="https://ijisrt.com/unveiling-the-veil-a-comprehensive-assessment-of-privacy-and-security-in-amazon-alexa"><img src="https://img.shields.io/badge/IJISRT-Publisher-blue"></a></p>
   
 
-<li><a href="https://ijirt.org/publishedpaper/IJIRT167821_PAPER.pdf"/>Yoga pose classification from images using transfer learning approach</a></li><strong>International Journal of Innovative Research in Technology</strong> <a href="https://ijirt.org/Article?manuscript=167821"><img src="https://img.shields.io/badge/IJIRT-Publisher-green"></a>
+<li><a href="https://ijirt.org/publishedpaper/IJIRT167821_PAPER.pdf"/>Yoga pose classification from images using transfer learning approach</a></li><strong>International Journal of Innovative Research in Technology</strong> 
+<p><a href="https://ijirt.org/Article?manuscript=167821"><img src="https://img.shields.io/badge/IJIRT-Publisher-green"><a/></p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sumony2j&repo=Transfer-Learning)](https://github.com/sumony2j/Transfer-Learning.git)
   

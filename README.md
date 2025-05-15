@@ -4,17 +4,47 @@
 
 <hr>
 
-- 🔭 I’m currently working on **distributed AI/ML learning**
+## 🔭 I’m currently working on
+**Distributed AI/ML systems**, infrastructure tooling, and performance optimization in large-scale training environments.
 
-- 🌱 I’m currently learning **horovod,LLM etc.**
+## 🌱 I’m currently learning
+**Horovod**, **LLM training/inference pipelines**, **GPU Direct RDMA**, and exploring internals of **NCCL**, **UCX**, and **GDRCopy**.
 
-- 👯 I’m looking to collaborate on **opensource projects**
+## 👯 I’m looking to collaborate on
+**Open-source projects**, especially in the domains of **AI infrastructure**, **systems programming**, and **performance engineering**.
 
-- 💬 Ask me about **Docker, Jenkins, Python, C/C++, Automation, Scripting, Java, Linux, AWS EC2, Opensouce Project, Git etc.**
+## 💬 Ask me about
+**Python, C/C++, Linux, Docker, Jenkins, Bash, Java, Git, AWS EC2, Automation, Distributed Training**, and **Open-source contributions**.
 
-- 📄 Know about my experiences [will update soon](will update soon)
+## ⚡ Fun fact
+**My commit messages tell a story – a tragic tale of bugs squashed, features conquered, and the occasional coffee spill. It's a novel in progress.**
 
-- ⚡ Fun fact **My commit messages tell a story – a tragic tale of bugs squashed, features conquered, and the occasional coffee spill. It's a novel in progress.**
+---
+
+## 🚀 Highlights of My Work
+
+### 🧠 AI/ML & Distributed Systems
+
+- Fine-tuned **Large Language Models (LLMs)** and optimized inference pipelines for performance and scalability.
+- Built and containerized **Horovod**-based distributed training setups using **Docker** and orchestration tools.
+- Debugged and improved **NCCL** behavior to enhance communication efficiency in multi-GPU/multi-node training.
+- Integrated **UCX** in distributed deep learning environments.
+- Explored and applied **GPU Direct RDMA (GDR)** and **GDRCopy** to improve memory transfer performance.
+- Performed benchmarking and profiling using tools like `nccl-tests` and `ib_perf`.
+
+### ⚙️ DevOps, Automation & Infrastructure
+
+- Set up CI/CD pipelines using **Jenkins**, **Python**, **Git**, **Linux**, and **AWS EC2** to support continuous integration and deployment.
+- Developed **CLI tools** using **C** and **Python** to simplify system interactions and performance tests.
+- Wrote **automation scripts** (Bash + Python) to streamline deployment, monitoring, and testing workflows.
+- Created **network packet manipulation utilities** in Python for test and validation scenarios.
+- Built **custom JSON parsers** and scripting tools to process data efficiently in various automation pipelines.
+
+### 📚 Engineering & Open Source
+
+- Integrated data algorithms (e.g., compression, checksums, hashing) into high-performance systems using **JNI**, **shared libraries**, and C/C++.
+- Contributed to **internal documentation** and technical writeups to improve collaboration and onboarding.
+- Passionate about **clean code**, **performance-first development**, and **open-source engineering**.
 
 <hr>
 

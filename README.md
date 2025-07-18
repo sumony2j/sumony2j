@@ -45,6 +45,16 @@
 
 <hr style="border: 2px solid #FF6F00;"/>
 
+## 🏆 Top Projects – Live Demos & Source Code
+
+| Project Name | Description | Technologies | GitHub | Live Demo |
+|--------------|-------------|--------------|--------|-----------|
+| **SeedGPT-22M** | Compact, Efficient Small Language Model | Pytorch, HuggingFace, Streamlit | [GitHub](https://github.com/sumony2j/SeedGPT-22M) | [Live Demo](https://huggingface.co/spaces/singhsumony2j/SeedGPT-22M) |
+| **DeepCareX** | DeepCareX is an AI-powered healthcare system leveraging machine learning models for intelligent health insights | Python, Flask, Docker, Deep-Learning | [GitHub](https://github.com/sumony2j/DeepCareX) | [Live Demo](https://deepcarex-latest.onrender.com/) |
+| **ArtVenture** | Real-time AI-based image filters and transformations | Python, OpenCV, Streamlit, Docker | [GitHub](https://github.com/sumony2j/ArtVenture) | [Live Demo](https://sumony2j-artventure-ui-8po1ge.streamlit.app/) |
+
+<hr style="border: 2px solid #FF6F00;"/>
+
 ## 📫 Connect With Me
 <a href="https://www.linkedin.com/in/sumon-singh-4b0a031a5/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />

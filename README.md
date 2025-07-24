@@ -51,7 +51,18 @@
 
 <table>
   <tr>
-    <td width="33%">
+     <td width="25%">
+      <h3>🧠 SeedGPT-StoryCrafter</h3>
+      <p>AI for stories, tales & imagination</p>
+      <strong>Tech:</strong> PyTorch, Hugging Face, Streamlit <br/><br/>
+      <a href="https://github.com/sumony2j/SeedGPT-22M">
+        <img alt="GitHub" src="https://img.shields.io/badge/View%20Code-black?logo=github&style=for-the-badge" />
+      </a>
+      <a href="https://huggingface.co/spaces/singhsumony2j/SeedGPT-StoryCrafter">
+        <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-28a745?logo=Streamlit&logoColor=white&style=for-the-badge" />
+      </a>
+    </td>
+    <td width="25%">
       <h3>🧠 SeedGPT-22M</h3>
       <p>Compact, Efficient Small Language Model</p>
       <strong>Tech:</strong> PyTorch, Hugging Face, Streamlit <br/><br/>
@@ -62,7 +73,7 @@
         <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-28a745?logo=Streamlit&logoColor=white&style=for-the-badge" />
       </a>
     </td>
-    <td width="33%">
+    <td width="25%">
       <h3>🩺 DeepCareX</h3>
       <p>DeepCareX is an AI-powered healthcare system leveraging machine learning models for intelligent health insights</p>
       <strong>Tech:</strong> TensorFlow, Keras, Flask, Docker <br/><br/>
@@ -73,7 +84,7 @@
         <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-28a745?logo=Flask&logoColor=white&style=for-the-badge" />
       </a>
     </td>
-    <td width="33%">
+    <td width="25%">
       <h3>🎨 ArtVenture</h3>
       <p>Real-time AI filters and image transformations.</p>
       <strong>Tech:</strong> OpenCV, Streamlit, Docker <br/><br/>

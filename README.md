@@ -150,10 +150,10 @@
 
 ## 🎓 Education
 
-| University | Degree | Stream | Year | Score |
-|-----------|--------|--------|------|--------|
-| University of Mumbai, India | M.Sc | Computer Science (Data Science) | 2021–2023 | CGPI: 9.46/10 (82.71%) |
-| University of Calcutta, India | B.Sc (Hons) | Computer Science | 2017–2020 | 633/800 (80%) |
+| University | Degree | Stream |
+|-----------|--------|--------|
+| University of Mumbai, India | M.Sc | Computer Science (Data Science) |
+| University of Calcutta, India | B.Sc (Hons) | Computer Science |
 
 ---
 

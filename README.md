@@ -159,13 +159,6 @@
 
 <hr style="border: 2px solid #E95420;"/>
 
-## 🎓 Education
-
-| University | Degree | Stream |
-|-----------|--------|--------|
-| University of Mumbai, India | M.Sc | Computer Science (Data Science) |
-| University of Calcutta, India | B.Sc (Hons) | Computer Science |
-
 ---
 
 ## 📝 Publications
